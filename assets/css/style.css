@@ -315,6 +315,8 @@ section {
   margin-right: 5px;
   color: #149ddd;
   line-height: 0;
+  cursor: pointer;
+  white-space: pre;
 }
 .about .content p:last-child {
   margin-bottom: 0;
